@@ -11,3 +11,19 @@
 
 * Program invocation follow the pattern:
     mgrep search_string search_dir
+
+
+
+Sukuriamas grep klonas, galintis atlikti paprastą poeilutės paiešką failuose. Jis automatiškai pasikartoja į pakatalogius.
+
+Gorutinų naudojimas ieškant poeilutės atitikties failuose
+
+Rodo atitikmenis su terminalu, kai jie bus rasti
+
+Rodo eilutės numerį, failo kelią ir visą eilutę, kurioje yra atitiktis
+
+Pasikartoja į bet kokius pakatalogius ir ieško atitikmenų
+
+Naudojant bet kokį sinchronizavimo metodą, siekiant užtikrinti, kad būtų ieškoma visų failų ir visi rezultatai būtų rodomi prieš pasibaigiant programai.
+
+Programos iškvietimas seka šabloną: mgrep search_string search_dir
