@@ -22,4 +22,4 @@ Sukuriamas grep klonas, galintis atlikti paprastą poeilutės paiešką failuose
 * Pasikartoja į bet kokius pakatalogius ir ieško atitikmenų
 * Naudojant bet kokį sinchronizavimo metodą, siekiant užtikrinti, kad būtų ieškoma visų failų ir visi rezultatai būtų rodomi prieš pasibaigiant programai.
 
-* Programos iškvietimas seka šabloną: mgrep search_string search_dir
+* Programos iškvietimas seka šabloną: mgrep search_string  search_dir
